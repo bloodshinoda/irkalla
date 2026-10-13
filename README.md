@@ -1,6 +1,26 @@
-> **Irkalla note:** This repository is a retained fork of Xonotic/DarkPlaces for project compliance and historical baseline. Engine work for Irkalla continues on top of Zircon ("Zika"); this tree is kept as-is for reference and licensing/compliance purposes.
+# Irkalla
 
-# DarkPlaces Engine
+**Irkalla** is a Quake engine project rooted in Mesopotamian underworld myth — the land of the dead in Sumerian/Akkadian tradition — filtered through classic id Software design: if the game gives you something, it will make you pay for it.
+
+## What this repo is
+
+This repository is a **retained fork** of Xonotic’s DarkPlaces tree, kept as a historical and licensing baseline for compliance.
+
+Active engine development for Irkalla is **not** done on this tree. It is built on **Zircon** ("Zika" / DarkPlaces Mark V lineage), with this fork held as reference and for project compliance. Content and gameplay work continue elsewhere; this tree stays frozen at the retained baseline.
+
+## Direction (high level)
+
+- Engine base: Zircon on top of the DarkPlaces family
+- Theme: ancient Mesopotamia / underworld atmosphere, mixed with Quake’s cosmic horror DNA
+- Mapping and systems follow the old id principle: power has cost; the world fights back
+
+## Status
+
+Baseline retained. Zircon layer and Irkalla content are developed separately and will land on top of this compliance tree as needed.
+
+---
+
+# DarkPlaces Engine (upstream baseline)
 
 DarkPlaces is a game engine based on the Quake 1 engine by id Software. It
 improves and builds upon the original 1996 engine by adding modern rendering
