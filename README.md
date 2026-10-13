@@ -1,3 +1,5 @@
+> **Irkalla note:** This repository is a retained fork of Xonotic/DarkPlaces for project compliance and historical baseline. Engine work for Irkalla continues on top of Zircon ("Zika"); this tree is kept as-is for reference and licensing/compliance purposes.
+
 # DarkPlaces Engine
 
 DarkPlaces is a game engine based on the Quake 1 engine by id Software. It
